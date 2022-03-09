@@ -1,4 +1,4 @@
-# <p align = "center">Color Picker Project</p>
+# <p align = "center">Color Picker</p>
 A simple RGB color picker through trackbars using OpenCV and Python.
 
 1. Run the program
