@@ -1,5 +1,5 @@
-# <p align = "center">Day 08, Color Picker Project</p>
-We have created a simple RGB color picker using trackbars.
+# <p align = "center">Color Picker Project</p>
+A simple RGB color picker through trackbars using OpenCV and Python.
 
 1. Run the program
 2. To display color turn s = 1
